@@ -52,7 +52,7 @@ const MainPage = props => {
             Share
           </Button>
           <Button size="small" color="primary">
-            Learn More
+            Learn Moree
           </Button>
         </CardActions>
       </Card>
